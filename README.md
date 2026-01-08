@@ -1,4 +1,4 @@
-# GUÍA PRÁCTICA: COMANDOS GIT Y CÓMO REUBICAR EL CÓDIGO
+# Guía Práctica: Comandos GIT y cómo reubicar el código
 
 ## PASO 1: CLONAR EL REPOSITORIO
 
