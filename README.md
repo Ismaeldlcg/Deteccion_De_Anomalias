@@ -1,6 +1,6 @@
-# 🔧 GUÍA PRÁCTICA: COMANDOS GIT Y CÓMO REUBICAR EL CÓDIGO
+#GUÍA PRÁCTICA: COMANDOS GIT Y CÓMO REUBICAR EL CÓDIGO
 
-## 📥 PASO 1: CLONAR EL REPOSITORIO
+## PASO 1: CLONAR EL REPOSITORIO
 
 ### Comando básico:
 ```bash
@@ -23,7 +23,7 @@ cd animal-anomaly-detection
 
 ---
 
-## 📂 PASO 2: VER LA ESTRUCTURA
+## PASO 2: VER LA ESTRUCTURA
 
 ### Ver qué archivos hay:
 ```bash
