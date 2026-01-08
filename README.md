@@ -15,7 +15,7 @@ git clone https://github.com/ismaeldlcg/Deteccion_De_Anomalias.git
 
 ### Entrar a la carpeta:
 ```bash
-cd animal-anomaly-detection
+cd Deteccion_De_Anomalias
 ```
 
 **¿Qué hace?**
