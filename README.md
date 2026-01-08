@@ -34,5 +34,3 @@ ls -la
 - Lista todos los archivos y carpetas
 - Muestra permisos, tamaño, fecha de modificación
 - Incluye archivos ocultos (empiezan con punto)
-
-Created with ❤️ for practical Git learning
