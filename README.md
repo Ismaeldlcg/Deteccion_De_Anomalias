@@ -4,7 +4,7 @@
 
 ### Comando básico:
 ```bash
-git clone https://github.com/ismaeldlcg/animal-anomaly-detection.git
+git clone https://github.com/ismaeldlcg/Deteccion_De_Anomalias.git
 ```
 
 **¿Qué hace?**
